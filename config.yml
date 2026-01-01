@@ -1,0 +1,14 @@
+version: "1.0"
+
+project:
+  name: "CSS Space Scene"
+  language: "HTML + CSS"
+
+animation:
+  stars:
+    twinkle_speed: "2s"
+  planet:
+    rotation_speed: "10s"
+    color: "#00f"
+  ship:
+    fly_speed: "15s"
